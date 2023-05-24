@@ -1,0 +1,17 @@
+{
+  "id": "puzzle_-232,73,761",
+  "name": "puzzle",
+  "icon": "waypoint-normal.png",
+  "x": -232,
+  "y": 73,
+  "z": 761,
+  "r": 14,
+  "g": 7,
+  "b": 162,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

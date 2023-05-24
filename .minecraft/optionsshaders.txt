@@ -1,0 +1,19 @@
+#Tue May 23 00:36:40 EDT 2023
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+antialiasingLevel=0
+cloudShadow=false
+handDepthMul=0.125
+normalMapEnabled=true
+oldHandLight=default
+oldLighting=default
+renderResMul=1.0
+shaderPack=Sildur's+Enhanced+Default+v1.15+Fast.zip
+shadowClipFrustrum=true
+shadowResMul=1.0
+specularMapEnabled=true
+tweakBlockDamage=false

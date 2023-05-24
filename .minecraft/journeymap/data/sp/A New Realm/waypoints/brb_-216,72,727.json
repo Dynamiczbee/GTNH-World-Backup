@@ -1,0 +1,17 @@
+{
+  "id": "brb_-216,72,727",
+  "name": "brb",
+  "icon": "waypoint-normal.png",
+  "x": -216,
+  "y": 72,
+  "z": 727,
+  "r": 48,
+  "g": 28,
+  "b": 106,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
